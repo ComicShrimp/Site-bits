@@ -1,0 +1,11 @@
+/* Folha de estilo da pg principal */
+
+.head {
+    float: left;
+    width: auto;
+}
+
+.itens {
+    float: left;
+    width: auto;
+}
